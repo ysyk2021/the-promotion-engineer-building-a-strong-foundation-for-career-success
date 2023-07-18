@@ -14,7 +14,6 @@ Let's embark on this transformative journey together, as we equip ourselves with
 
 Are you ready to unlock your fullest potential and take charge of your professional growth? Let's dive in and discover the secrets to becoming a Promotion Engineer!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
