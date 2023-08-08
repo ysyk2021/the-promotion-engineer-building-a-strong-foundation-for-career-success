@@ -37,3 +37,4 @@
   - [Setting goals for personal and professional growth through promotion engineering](chapter-9-2.md)
   - [Incorporating self-reflection into the process](chapter-9-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
