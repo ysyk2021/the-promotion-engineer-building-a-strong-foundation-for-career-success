@@ -3,12 +3,12 @@ What is Promotion Engineering?
 
 In this chapter, we will explore the concept of promotion engineering and its significance in building a strong foundation for career success. We will delve into the definition, key principles, and strategies involved in promotion engineering.
 
-1. Understanding Promotion Engineering
+1\. Understanding Promotion Engineering
 --------------------------------------
 
 Promotion engineering refers to the systematic and strategic approach towards advancing one's career through deliberate actions and effective planning. It involves leveraging personal strengths, acquiring necessary skills, and navigating professional opportunities to achieve professional growth and advancement.
 
-2. Key Principles of Promotion Engineering
+2\. Key Principles of Promotion Engineering
 ------------------------------------------
 
 ### a. Self-Assessment and Goal Setting
@@ -31,7 +31,7 @@ Promotion engineering involves consistently demonstrating professional excellenc
 
 Promotion engineering requires individuals to step out of their comfort zones and seize opportunities. This may involve taking on challenging projects, volunteering for leadership roles, or seeking out promotions internally. Taking calculated risks demonstrates confidence, ambition, and the ability to handle increased responsibilities.
 
-3. Strategies for Effective Promotion Engineering
+3\. Strategies for Effective Promotion Engineering
 -------------------------------------------------
 
 ### a. Developing a Personal Brand

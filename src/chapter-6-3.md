@@ -3,7 +3,7 @@ Building Skills and Knowledge
 
 In today's rapidly changing job market, building and refining your skills and knowledge is crucial for career success. As a promotion engineer, it is essential to continually develop yourself professionally and stay up-to-date with the latest industry trends. This chapter will provide you with valuable insights and practical strategies for building a strong foundation of skills and knowledge.
 
-1. Identifying Essential Skills
+1\. Identifying Essential Skills
 -------------------------------
 
 To start your journey towards skill development, it is important to identify the key skills that are relevant to your role as a promotion engineer. These may include:
@@ -16,7 +16,7 @@ To start your journey towards skill development, it is important to identify the
 
 * **Project Management Skills**: As a promotion engineer, you may be involved in managing various projects. Developing project management skills, including planning, organization, and time management, will help you deliver successful outcomes.
 
-2. Continuous Learning
+2\. Continuous Learning
 ----------------------
 
 Learning should be a lifelong pursuit, especially in an industry as dynamic as engineering. Here are some strategies to foster continuous learning:
@@ -27,7 +27,7 @@ Learning should be a lifelong pursuit, especially in an industry as dynamic as e
 
 * **Network and Collaborate**: Build professional relationships within your industry and engage in knowledge-sharing activities with peers. Attend networking events, join professional associations, and seek mentorship opportunities to expand your horizons and gain insights from experienced professionals.
 
-3. Developing a Growth Mindset
+3\. Developing a Growth Mindset
 ------------------------------
 
 Having a growth mindset is essential for continuous improvement and adaptability. Cultivate the following habits to develop a growth mindset:
@@ -38,7 +38,7 @@ Having a growth mindset is essential for continuous improvement and adaptability
 
 * **Emphasize Effort and Practice**: Understand that success comes through consistent effort and deliberate practice. Dedicate time to honing your skills and consistently strive for improvement.
 
-4. Utilizing Resources
+4\. Utilizing Resources
 ----------------------
 
 Take advantage of available resources to facilitate your skill-building journey:
