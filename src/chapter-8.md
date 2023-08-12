@@ -1,7 +1,7 @@
 Chapter 7: Implementing and Communicating Changes
 =================================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of implementing and communicating changes resulting from promotion engineering. In this chapter, we will explore the importance of implementing and communicating changes, techniques for doing so, and how to build change management and persuasion skills.
+In this chapter, we will explore the importance of implementing and communicating changes, techniques for doing so, and how to build change management and persuasion skills.
 
 The Importance of Implementing and Communicating Changes Resulting from Promotion Engineering
 ---------------------------------------------------------------------------------------------

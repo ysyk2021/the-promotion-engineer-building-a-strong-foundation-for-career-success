@@ -1,7 +1,7 @@
 Chapter 1: Understanding Promotion Engineering
 ==============================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of effective promotion engineering in achieving career success. In this chapter, we will explore what promotion engineering is, the types of promotion engineering, and the benefits of effective promotion engineering.
+In this chapter, we will explore what promotion engineering is, the types of promotion engineering, and the benefits of effective promotion engineering.
 
 What is Promotion Engineering?
 ------------------------------

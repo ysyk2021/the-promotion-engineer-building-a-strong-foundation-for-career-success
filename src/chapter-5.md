@@ -1,7 +1,7 @@
 Chapter 4: Navigating Corporate Culture
 =======================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of navigating corporate culture in order to achieve career success. In this chapter, we will explore the importance of navigating corporate culture in promotion engineering, techniques for managing corporate culture, and building networking and relationship-building skills.
+In this chapter, we will explore the importance of navigating corporate culture in promotion engineering, techniques for managing corporate culture, and building networking and relationship-building skills.
 
 The Importance of Navigating Corporate Culture in Promotion Engineering
 -----------------------------------------------------------------------

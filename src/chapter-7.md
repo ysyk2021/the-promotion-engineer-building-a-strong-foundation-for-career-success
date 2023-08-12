@@ -1,7 +1,7 @@
 Chapter 6: Balancing Results and Relationships
 ==============================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of effective promotion engineering in achieving career success. In this chapter, we will explore balancing results and relationships.
+In this chapter, we will explore balancing results and relationships.
 
 Understanding the Role of Balancing Results and Relationships in Promotion Engineering
 --------------------------------------------------------------------------------------

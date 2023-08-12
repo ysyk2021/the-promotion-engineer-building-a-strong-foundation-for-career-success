@@ -1,7 +1,7 @@
 Chapter 5: Embracing Continuous Learning
 ========================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of effective promotion engineering in achieving career success. In this chapter, we will explore the impact of continuous learning on promotion engineering and techniques for embracing continuous learning.
+In this chapter, we will explore the impact of continuous learning on promotion engineering and techniques for embracing continuous learning.
 
 The Impact of Continuous Learning on Promotion Engineering
 ----------------------------------------------------------

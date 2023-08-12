@@ -1,7 +1,7 @@
 Chapter 3: Building Self-Awareness
 ==================================
 
-In "The Promotion Engineer: Building a Strong Foundation for Career Success," author emphasizes the importance of building self-awareness in order to achieve career success. In this chapter, we will explore techniques for building self-awareness in relation to promotion engineering, identifying strengths and weaknesses as a professional, and building confidence and assertiveness.
+In this chapter, we will explore techniques for building self-awareness in relation to promotion engineering, identifying strengths and weaknesses as a professional, and building confidence and assertiveness.
 
 Techniques for Building Self-Awareness in Relation to Promotion Engineering
 ---------------------------------------------------------------------------
