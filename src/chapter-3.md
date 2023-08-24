@@ -1,5 +1,3 @@
-Chapter 2: Developing a Growth Mindset for Promotion Engineering
-================================================================
 
 In this chapter, we will explore the importance of a growth mindset specifically in relation to promotion engineering, techniques for developing a growth mindset, and overcoming obstacles to effective promotion engineering.
 

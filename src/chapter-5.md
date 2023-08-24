@@ -1,5 +1,3 @@
-Chapter 4: Navigating Corporate Culture
-=======================================
 
 In this chapter, we will explore the importance of navigating corporate culture in promotion engineering, techniques for managing corporate culture, and building networking and relationship-building skills.
 

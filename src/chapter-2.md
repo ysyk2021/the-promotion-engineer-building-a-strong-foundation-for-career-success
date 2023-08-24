@@ -1,5 +1,3 @@
-Chapter 1: Understanding Promotion Engineering
-==============================================
 
 In this chapter, we will explore what promotion engineering is, the types of promotion engineering, and the benefits of effective promotion engineering.
 

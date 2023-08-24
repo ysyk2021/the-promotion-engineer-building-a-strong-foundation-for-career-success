@@ -1,5 +1,3 @@
-Chapter 6: Balancing Results and Relationships
-==============================================
 
 In this chapter, we will explore balancing results and relationships.
 

@@ -1,5 +1,3 @@
-Building Confidence and Assertiveness
-================================================
 
 In today's competitive professional landscape, confidence and assertiveness are essential qualities for career success. They enable individuals to effectively communicate their ideas, take initiative, and navigate challenging situations with poise. This chapter explores strategies and techniques to help engineers build confidence and cultivate assertiveness in the workplace.
 

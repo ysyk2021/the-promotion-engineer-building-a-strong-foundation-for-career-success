@@ -1,5 +1,3 @@
-Techniques for Implementing and Communicating Changes
-==============================================================
 
 In today's fast-paced and ever-changing business world, organizations must constantly adapt to stay competitive. One crucial aspect of managing change effectively is implementing and communicating it to the relevant stakeholders. This chapter will explore various techniques that can help engineers become skilled at successfully implementing and communicating changes in their organizations.
 

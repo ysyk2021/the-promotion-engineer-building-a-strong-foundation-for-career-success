@@ -1,5 +1,3 @@
-Building Communication and Leadership Skills
-=====================================================
 
 Effective communication and strong leadership are essential skills for any aspiring engineer seeking career success. In this chapter, we will explore key strategies and techniques to develop and enhance these vital abilities.
 

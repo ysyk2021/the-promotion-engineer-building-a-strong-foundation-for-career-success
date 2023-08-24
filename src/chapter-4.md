@@ -1,5 +1,3 @@
-Chapter 3: Building Self-Awareness
-==================================
 
 In this chapter, we will explore techniques for building self-awareness in relation to promotion engineering, identifying strengths and weaknesses as a professional, and building confidence and assertiveness.
 

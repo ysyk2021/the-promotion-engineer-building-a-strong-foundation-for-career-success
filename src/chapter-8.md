@@ -1,5 +1,3 @@
-Chapter 7: Implementing and Communicating Changes
-=================================================
 
 In this chapter, we will explore the importance of implementing and communicating changes, techniques for doing so, and how to build change management and persuasion skills.
 
