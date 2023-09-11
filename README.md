@@ -1,3 +1,6 @@
+# The Promotion Engineer: Building a Strong Foundation for Career Success
+
+Book Link: [https://zhengpublishing.com/the-promotion-engineer-building-a-strong-foundation-for-career-success/](https://zhengpublishing.com/the-promotion-engineer-building-a-strong-foundation-for-career-success/)
 
 The Promotion Engineer delves into the key aspects of career development, focusing on practical techniques and proven methodologies that can be applied in any professional field. By adopting the mindset of an engineer, we will approach career advancement with a systematic and strategic approach, setting ourselves up for long-term success.
 
